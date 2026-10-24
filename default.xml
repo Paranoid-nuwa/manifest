@@ -48,6 +48,12 @@
   <remote  name="gitlab"
            fetch="https://gitlab.com" />
 
+  <remote  name="xiaomi-8550"
+           fetch="git@github.com:xiaomi-8550" />
+
+  <remote  name="PixelOS-Nuwa"
+           fetch="git@github.com:PixelOS-Nuwa" />
+
   <include name="aosp.xml"/>
   <include name="aospa.xml"/>
   <include name="obsolete.xml"/>
